@@ -4,7 +4,7 @@ using namespace std;
 
 // Recursion topic!
 
-// When a function calls itself until a base condition is satisfied3
+// When a function calls itself until a base condition is satisfied
 // Recursion function has a calling phase and returning phase
 
 class Recursion
