@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-
+// Stack creation using array
 class Stack
 {
 private:
