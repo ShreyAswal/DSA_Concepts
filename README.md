@@ -18,6 +18,7 @@ In this directory, you will find code examples and implementations of common DSA
 - Linked List
 - Recursion
 - Stack
+- Trees
 - RandomQuestions
 
 
